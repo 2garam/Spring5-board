@@ -1,4 +1,4 @@
-# Spring5-board
+# 클라우드 서버 garami.shop
 # Oracle DB table
 create sequence user_seq
 start with 0
