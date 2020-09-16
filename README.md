@@ -5,7 +5,7 @@ http://garami.shop
 
 
 # Spring MVC 미니 프로젝트(게시판)
-
+```
 [환경]
 - 톰캣, 이클립스, java, Srping5, oracle 11g or mariaDB(클라우드 실구현)
 
@@ -23,3 +23,4 @@ http://garami.shop
     - 글 삭제 및 페이징 처리
 
   3. 기타 에러메세지
+```
